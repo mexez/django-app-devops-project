@@ -1,1 +1,1 @@
-# rust-app-devops-project
+# django-app-devops-project
